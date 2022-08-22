@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1036700915741",
+    "firebase_url": "https://mis-s-nurse-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mis-s-nurse",
+    "storage_bucket": "mis-s-nurse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036700915741:android:cf396eff728809d06a4ef4",
+        "android_client_info": {
+          "package_name": "com.example.firebasetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036700915741-b65fdmnnje3kcpev5nsmusau11vc6t1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6IeLhCQihDrhKALIY7WyFG6aVMa2_j8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036700915741-b65fdmnnje3kcpev5nsmusau11vc6t1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036700915741:android:872acae5f805fa466a4ef4",
+        "android_client_info": {
+          "package_name": "com.example.newest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036700915741-b65fdmnnje3kcpev5nsmusau11vc6t1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6IeLhCQihDrhKALIY7WyFG6aVMa2_j8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036700915741-b65fdmnnje3kcpev5nsmusau11vc6t1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
